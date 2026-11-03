@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+    <key>CFBundleName</key><string>Transcripted</string>
+    <key>CFBundleDisplayName</key><string>Transcripted</string>
+    <key>CFBundleIdentifier</key><string>com.transcripted.mac</string>
+    <key>CFBundleExecutable</key><string>Transcripted</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>0.1.0</string>
+    <key>CFBundleVersion</key><string>1</string>
+    <key>LSMinimumSystemVersion</key><string>26.0</string>
+    <key>NSMicrophoneUsageDescription</key><string>Record your voice and in-person meetings for local transcription.</string>
+    <key>NSSpeechRecognitionUsageDescription</key><string>Transcribe your recorded meetings on this Mac.</string>
+    <key>NSAudioCaptureUsageDescription</key><string>Capture meeting audio from other apps when you choose Microphone + Mac audio.</string>
+    <key>NSHighResolutionCapable</key><true/>
+</dict></plist>
